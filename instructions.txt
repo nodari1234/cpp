@@ -1,7 +1,0 @@
-git add .
-git commit -m "commento"
-git push
-
-
-per scaricare fai
-git pull
