@@ -7,8 +7,8 @@ int main()
 	cin>>a;
 	cin>>b;
 	cin>>c;
-	if(!(a==b==c || a==c || a==b || c==b))
-		cout<<"questi tre numeri possono essere le lunghezze di un triangolo"<<endl;
+	if(a+b>c && a+c >b && c+b > a)
+		cout<<"questi tre numeri possono essere le lunghezze di un triangolo"<<"\n";
 	else
 	    cout<<"questi tre numeri non possono essere le lunghezze di un triangolo"<<endl;
 	return 0;
