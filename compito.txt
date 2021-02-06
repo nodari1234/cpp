@@ -1,0 +1,4 @@
+1) fai la media dei numeri che vanno da 50 a 253
+2) Fai un progrmma che calcola la media della classe dei voti di matemaitica. E calcola il voto massimo e il voto minimo
+3) Stampa tutti i numeri pari e divisibili per 5 da 0 a 10000000
+
