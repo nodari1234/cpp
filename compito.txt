@@ -1,4 +1,9 @@
-1) fai la media dei numeri che vanno da 50 a 253
-2) Fai un progrmma che calcola la media della classe dei voti di matemaitica. E calcola il voto massimo e il voto minimo
-3) Stampa tutti i numeri pari e divisibili per 5 da 0 a 10000000
+1) Stampa tutti i numeri pari e divisibili per 5 da 0 a 10000000
+2)Scrivere i primi cento numeri naturali.
+3)Scrivere i  numeri naturali compresi tra 1 e un numero letto in input.
+4)Leggere un numero naturale n e scrivere in output un numero n di ‘+’.
+(Ad esempio se leggo 5 l’output sarà: +++++ ) 
+5)Leggere in input 10 numeri e calcolarne la somma.
+
+Tutti questo esercizi devono essere svolti con un ciclo for.
 
