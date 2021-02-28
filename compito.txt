@@ -1,9 +1,2 @@
-1) Stampa tutti i numeri pari e divisibili per 5 da 0 a 10000000
-2)Scrivere i primi cento numeri naturali.
-3)Scrivere i  numeri naturali compresi tra 1 e un numero letto in input.
-4)Leggere un numero naturale n e scrivere in output un numero n di ‘+’.
-(Ad esempio se leggo 5 l’output sarà: +++++ ) 
-5)Leggere in input 10 numeri e calcolarne la somma.
-
-Tutti questo esercizi devono essere svolti con un ciclo for.
-
+1) Scrivere un programma in C++ che legge un vettore(array) di interi di dimensione fissata e ne stampa la somma
+2)Scrivere un programma in C++ che legge un vettore di interi di dimensione fissata, inverte il vettore e lo stampa
