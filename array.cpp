@@ -12,7 +12,7 @@ int main(int argc, char const *argv[]) {
   }
 
 
-  for (int i = 0; i < length; i++) {
+  for (int i = 0; i < length i++) {
     cout << voti[i] << endl;
   }
 

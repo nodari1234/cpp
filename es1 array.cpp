@@ -15,9 +15,9 @@ int main()
 		
 		cout<<"inserire un numero intero : ";
 		
-		cin>>numeriFissi[lenght];
+		cin>>numeriFissi[i];
 		
-		somma=somma + numeriFissi[lenght];
+		somma=somma + numeriFissi[i];
 	}
 	
 	cout<<"La somma e : "<<somma<<endl;

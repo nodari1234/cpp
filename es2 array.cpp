@@ -18,7 +18,7 @@ int main()
 		
 		cout<<"inserire un numero intero : ";
 		
-		cin>>numeriFissi[i;
+		cin>>numeriFissi[i];
 		
 	}
 	cout<<numeriFissi[i]<<endl;
